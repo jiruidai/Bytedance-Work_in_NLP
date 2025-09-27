@@ -2,9 +2,9 @@
 
 在实习过程中，我完成了以下可公开的三类工作：
 
-- 🔍 **Data Crawling**  
-- 🧹 **Data Cleaning**  
-- 📑 **Paper Summary & Model Reproduction**
+- 🔍 **Data Crawling & Data Cleaning**  
+- 🧹 **Paper Summary**
+- 📑 **Model Reproduction**
 
 ---
 
